@@ -15,7 +15,7 @@ message = client.messages \
                      to= scraping_variables.num
                  )
 
-print(message.sid)
+
 
 
 
